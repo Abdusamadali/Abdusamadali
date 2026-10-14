@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23007ACC&size=25&center=true&vCenter=true&width=900&height=100&lines=Java+Backend+Developer;Spring+Boot+%26+REST+APIs;Flutter+Developer+(Cross+Platform);Solved+500%2B+DSA+Problems;LeetCode+Rating+1400%2B;Building+Scalable+Backend+Systems;Actively+Seeking+Backend+%2F+Full+Stack+Roles;Always+Learning+New+Things" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23007ACC&size=25&center=true&vCenter=true&width=900&height=100&lines=Java+Backend+Developer;Spring+Boot+%26+REST+APIs;Flutter+Developer+(Cross+Platform);Solved+600%2B+DSA+Problems;Building+Scalable+Backend+Systems;Actively+Seeking+Backend+%2F+Full+Stack+Roles;Always+Learning+New+Things" />
   </a>
 </p>
 
